@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-On Tuesday we must listen to at least 2 albums by a female fronted act.
+Every Tuesday we must commemorate the occasion by listening to at least 2 albums by a female fronted act.
+
