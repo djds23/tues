@@ -2,6 +2,7 @@
 layout: post
 title: "Week 6: Sleater-Kinney & PaleHound"
 date:   2016-03-06 19:41:51 -0400
+comments: true
 categories: album
 ---
 

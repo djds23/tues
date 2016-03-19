@@ -2,6 +2,7 @@
 layout: post
 title: "Week 4: Alvvays & Jenny Lewis"
 date:   2016-03-04 19:41:51 -0400
+comments: true
 categories: album
 ---
 

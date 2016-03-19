@@ -2,6 +2,7 @@
 layout: post
 title: "Week 5: Swearin' & Eleanor Friedberger"
 date:   2016-03-05 19:41:51 -0400
+comments: true
 categories: album
 ---
 

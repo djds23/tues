@@ -3,6 +3,7 @@ layout: post
 title: "Week 7: Houndstooth & Santigold"
 date: "2016-03-15 19:41:51 -0400"
 category: album
+comments: true
 published: true
 ---
 

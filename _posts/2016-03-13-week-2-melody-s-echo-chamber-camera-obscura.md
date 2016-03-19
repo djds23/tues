@@ -2,6 +2,7 @@
 layout: post
 title: "Week 2: Melody's Echo Chamber & Camera Obscura"
 date:   2016-03-02 19:41:51 -0400
+comments: true
 categories: album
 ---
 

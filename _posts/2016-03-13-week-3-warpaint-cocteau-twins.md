@@ -2,6 +2,7 @@
 layout: post
 title: "Week 3: Warpaint & Cocteau Twins"
 date:   2016-03-03 19:41:51 -0400
+comments: true
 categories: album
 ---
 
