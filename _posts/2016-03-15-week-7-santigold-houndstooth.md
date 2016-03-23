@@ -7,7 +7,7 @@ comments: true
 published: true
 ---
 
-### Houndstooth - Ride Out the Dark 
+### Houndstooth - Ride Out the Dark
 <iframe src="https://embed.spotify.com/?uri=spotify%3Aalbum%3A2IsyICzGjkvk4JNSyJUBeH&view=coverart" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 
 ### Santigold - Santigold
