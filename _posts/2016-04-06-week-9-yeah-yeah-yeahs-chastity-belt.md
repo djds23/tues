@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week 9: Yeah Yeah Yeahs & Chastity Belt"
-date: "2016-03-22 19:41:51 -0400"
+date: "2016-03-29 19:41:51 -0400"
 category: album
 comments: true
 published: true
