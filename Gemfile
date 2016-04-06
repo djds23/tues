@@ -1,3 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'jekyll-compose', group: [:jekyll_plugins]
+gem 'jekyll-compose', :git => 'git@github.com:jekyll/jekyll-compose.git', group: [:jekyll_plugins]
+
